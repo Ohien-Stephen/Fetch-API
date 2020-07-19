@@ -1,0 +1,8 @@
+[
+        {"id":1, "name" :"Stephen", "age":26, "occupation":"Soft Dev"},
+        {"id":2, "name" :"James", "age" : 45, "occupation" : "Founder"},
+        {"id":3, "name" :"Sam", "age" : 61, "occupation" : "Product Manager"},
+        {"id":4, "name" :"John", "age" : 29, "occupation" : "Front End Dev"},
+        {"id":5, "name" :"Peter", "age" : 36, "occupation" : "UI/UX"},
+        {"id":6, "name" :"Sarah", "age" : 19, "occupation" : "Intern"}
+]
